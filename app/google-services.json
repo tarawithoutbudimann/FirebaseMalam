@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2334572179",
+    "project_id": "fir-malm",
+    "storage_bucket": "fir-malm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2334572179:android:4388bb269a1a54a2df5766",
+        "android_client_info": {
+          "package_name": "com.example.firebasemalam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo2cHjf6S83IcV3xmcqyzw-he-b-0QzVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
